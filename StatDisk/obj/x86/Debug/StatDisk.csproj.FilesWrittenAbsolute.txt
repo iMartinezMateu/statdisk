@@ -1,0 +1,7 @@
+/home/ivan/StatDisk/StatDisk/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/ivan/StatDisk/StatDisk/obj/x86/Debug/StatDisk.gtk-gui.gui.stetic
+/home/ivan/StatDisk/StatDisk/bin/Debug/StatDisk.exe.mdb
+/home/ivan/StatDisk/StatDisk/bin/Debug/StatDisk.exe
+/home/ivan/StatDisk/StatDisk/obj/x86/Debug/StatDisk.exe
+/home/ivan/StatDisk/StatDisk/obj/x86/Debug/StatDisk.exe.mdb
+/home/ivan/StatDisk/StatDisk/bin/Debug/NPlot.dll
